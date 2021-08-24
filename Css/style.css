@@ -1,0 +1,23 @@
+.bg-header{
+    background-color: #264653;
+}
+.txt-color{
+    color: #E76F51;
+}
+.icon-color{
+    color: #E77C40;
+}
+.customer-name{
+    color: blue;
+}
+.footer-background{
+    background-color: #0B0D17;
+}
+.footer-nav{
+    text-decoration: none;
+    color: white;
+}
+.feature-bike-color{
+    filter: grayscale(100%);
+}
+
